@@ -145,15 +145,43 @@ The lab reinforced the importance of file-integrity verification, understanding 
 
 ## 📸 Project Screenshots
 
-Supporting CyberChef analysis screenshots will be added to this section.
+### 1. MD5 File Integrity Validation
+![MD5 Hash Validation](screenshots/01-md5-hash-validation.png)
+
+### 2. Hexadecimal Password Decoding
+![Hex Password Decoding](screenshots/02-hex-password-decoding.png)
+
+### 3. 32-Character Hash Analysis
+![32 Character Hash Analysis](screenshots/03-hash-analysis-32-character.png)
+
+### 4. 40-Character Hash Analysis
+![40 Character Hash Analysis](screenshots/04-hash-analysis-40-character.png)
+
+### 5. URL Decoding
+![URL Decoding](screenshots/05-url-decoding.png)
+
+### 6. XOR Message Decryption
+![XOR Message Decryption](screenshots/06-xor-message-decryption.png)
+
+### 7. Multi-Step Hidden Message Decoding
+![Hidden Message Multi-Step Decoding](screenshots/07-hidden-message-multistep-decoding.png)
+
+### 8. Assessment Result — 27/30
+![CyberChef Assessment Result](screenshots/08-cyberchef-assessment-result-27-of-30.png)
 
 ---
 
 ## 📄 Project Evidence
 
-The completed Practicing Cryptography with CyberChef submission will be included in this repository as supporting evidence.
+The completed Practicing Cryptography with CyberChef submission is included in this repository as supporting evidence.
+
+[📄 View CyberChef Cryptography Submission](Practicing%20Cryptography%20with%20CyberChef%20-%20Submission.docx)
+
+The project evidence demonstrates MD5 integrity verification, hexadecimal decoding, hash analysis, URL decoding, XOR operations, symmetric-encryption concepts and multi-step message decoding using CyberChef.
 
 **Assessment result:** 27/30
+
+[🏆 View Assessment Result](screenshots/08-cyberchef-assessment-result-27-of-30.png)
 
 ---
 
